@@ -14,10 +14,10 @@ projects[drupal] = 7.19
 
 ; We point to our own installation profile here.
 ; This profile is the one that we actually are going to use.
-projects[vto][type] = profile
-projects[vto][download][type] = git
-projects[vto][download][url] = git@github.com:timbrandin/saveikse-profile.git
-projects[vto][download][branch] = master
+projects[saik][type] = profile
+projects[saik][download][type] = git
+projects[saik][download][url] = git@github.com:timbrandin/saveikse-profile.git
+projects[saik][download][branch] = master
 
 
 ; You can add as many other profiles as you want, and develop them
