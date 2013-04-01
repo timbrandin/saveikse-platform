@@ -4,3 +4,4 @@ nbproject/
 Vagrantfile
 .vagrant
 manifests/
+.DS_Store
